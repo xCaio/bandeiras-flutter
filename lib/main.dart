@@ -1,14 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/brasil.dart';
-import 'package:flutter_application_1/canada.dart';
-import 'package:flutter_application_1/finlandia.dart';
-import 'package:flutter_application_1/fintest.dart';
-import 'package:flutter_application_1/grecia.dart';
-import 'package:flutter_application_1/portugal.dart';
-import 'alemanha.dart';
-import 'franca.dart';
-import 'argentina.dart';
-import 'burkina.dart';
+import '../brasil.dart';
+import '../canada.dart';
+import '../finlandia.dart';
+import '../grecia.dart';
+import '../portugal.dart';
+import '../alemanha.dart';
+import '../franca.dart';
+import '../argentina.dart';
+import '../burkina.dart';
 
 void main() {
   runApp(const MyApp());
