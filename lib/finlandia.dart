@@ -27,9 +27,10 @@ class Finlandia extends StatelessWidget {
                 ),
               ),
             ],
-          )
+          ),
         ],
       ),
+
     );
   }
 }

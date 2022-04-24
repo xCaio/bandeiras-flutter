@@ -62,6 +62,8 @@ flutter:
     - assets/images/sol.png
     - assets/images/canada.png
     - assets/images/portugal.png
+    - assets/images/losango.png
+    - assets/images/globoazul.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see

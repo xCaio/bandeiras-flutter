@@ -4,12 +4,12 @@ class Grecia extends StatelessWidget {
   const Grecia({ Key? key }) : super(key: key);
 
 
-  Widget _cruzGrecia(){
+  Widget cruzGrecia(){
     return Stack(
       children: [
         Padding(padding: EdgeInsets.only(top: 0),
         child: Container(
-          color: Colors.blue,
+          color: Color.fromARGB(255, 0, 4, 255),
           height: 250,
           width: 250,
         ),
@@ -43,45 +43,45 @@ class Grecia extends StatelessWidget {
               child: Container(
                 width: double.infinity,
                 height: 50,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 0, 4, 255),
               ),
               ),
               Padding(padding: EdgeInsets.only(top: 100),
               child: Container(
                 width: double.infinity,
                 height: 50,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 0, 4, 255),
               ),
               ),
               Padding(padding: EdgeInsets.only(top: 200),
               child: Container(
                 width: double.infinity,
                 height: 50,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 0, 4, 255),
               ),
               ),
               Padding(padding: EdgeInsets.only(top: 300),
               child: Container(
                 width: double.infinity,
                 height: 50,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 0, 4, 255),
               ),
               ),
               Padding(padding: EdgeInsets.only(top: 400),
               child: Container(
                 width: double.infinity,
                 height: 50,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 0, 4, 255),
               ),
               ),
               Padding(padding: EdgeInsets.only(top: 500),
               child: Container(
                 width: double.infinity,
                 height: 50,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 0, 4, 255),
               ),
               ),
-            _cruzGrecia()
+            cruzGrecia()
             ],
           )
         ],
